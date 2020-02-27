@@ -20,4 +20,5 @@ int main(void)
 	z = (double) x/20;
 	printf("x/20 =  %.3f\n", z);
 
+	return EXIT_SUCCESS;
 }
